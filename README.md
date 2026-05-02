@@ -1,2 +1,2 @@
 # Krishi_Setu
-bgi hackathon repo.
+bgi hackathon reposetry
